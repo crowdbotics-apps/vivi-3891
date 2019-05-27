@@ -1,0 +1,3 @@
+rootProject.name = 'vivi_3891'
+
+include ':app'
